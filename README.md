@@ -3,7 +3,7 @@ My personal git reference guide. For the most part I have excluded the basics, h
 <br><br>
 
 # 1) Guides I like to Reference
-- :star: http://rogerdudler.github.io/git-guide/ :star: - is my personal favorite because of its simplicity and because it covers all of the basics!
+- :sparkles: http://rogerdudler.github.io/git-guide/ :sparkles: - is my personal favorite because of its simplicity and because it covers all of the basics!
 - Of course, for a more official source, there is also https://git-scm.com/ which covers everything git.
 <br><br>
 
