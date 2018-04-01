@@ -8,7 +8,7 @@ My personal git reference guide. For the most part I have excluded the basics, h
 <br><br>
 
 # 2) Submodules
-This section will contain helpful info for working with submodules.
+This section will contain helpful info for working with submodules. To access the guide I gathered most of the info below from, go [HERE](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
 
 ## Cloning a Repo with Submodules
 Clone a project that contains submodules, using `git clone <repo url> --recurse-submodules`. This will clone the specified repo as well as any of its submodules.
