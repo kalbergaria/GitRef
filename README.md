@@ -1,5 +1,5 @@
 # GitRef
-My personal git reference guide. For the most part I have excluded the basics, for that I recommend referring to my favorite git guise in the following section.
+My personal git reference guide. For the most part I have excluded the basics, however, for the basics I recommend referring to my favorite git guide in the following section.
 <br><br>
 
 # 1) Guides I like to Reference
