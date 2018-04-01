@@ -3,8 +3,8 @@ My personal git reference guide. I have excluded much of the basics, for that I 
 <br><br>
 
 # 1) Guides I like to Reference
-1) My personal favorite because of its simplicity and because it covers the basics: http://rogerdudler.github.io/git-guide/
-2) Of course there is also https://git-scm.com/ which covers everything git.
+- :star: http://rogerdudler.github.io/git-guide/ :star: - is my personal favorite because of its simplicity and because it covers all of the basics!
+- Of course, for a more official source, there is also https://git-scm.com/ which covers everything git.
 <br><br>
 
 # 2) Submodules
