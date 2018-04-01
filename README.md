@@ -8,10 +8,13 @@ My personal git reference guide. For the most part I have excluded the basics, h
 <br><br>
 
 # 2) Submodules
-This section will contain helpful info for working with submodules. To access the guide I gathered most of the info below from, go [HERE](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+This section will contain helpful info for working with submodules. To access the guide I gathered and condensed most of the info below from, go [HERE](https://git-scm.com/book/en/v2/Git-Tools-Submodules).
+
+## Adding Submodules to a Project
+To add a submodule to a project use `git submodule add <repo URL>` where *<repo URL>* is the URL for the repo you would like to add as a submodule. This will add a file called *.gitmodules* which maps the repo between where it lives and your current project. After this command finishes cloning the specified repo into your current project amke sure to commit and push those changes.
 
 ## Cloning a Repo with Submodules
-Clone a project that contains submodules, using `git clone <repo url> --recurse-submodules`. This will clone the specified repo as well as any of its submodules.
+Clone a project that contains submodules, using `git clone <repo URL> --recurse-submodules`. This will clone the specified repo as well as any of its submodules.
 
 ## Updating Submodule(s)
 To update a submodule with its latest commits, run `git submodule update --remote <submod name>` from outside the submodule's directory. While passing a submodule's name is optional, note that if a name is not provided all submodules within the repository will be updated.
